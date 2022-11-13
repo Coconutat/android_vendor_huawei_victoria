@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <whiteapp
+        name="天籁K歌"
+        package="com.audiocn.kalaok" />
+    <whiteapp
+        name="天籁K歌4.8.1"
+        package="com.audiocn.karaok" />
+    <whiteapp
+        name="唱吧"
+        package="com.changba" />
+    <whiteapp
+        name="全民K歌"
+        package="com.tencent.karaoke" />
+    <whiteapp
+        name="K歌达人"
+        package="com.app.hero.ui" />
+    <whiteapp
+        name="爱唱"
+        package="cn.banshenggua.aichang" />
+    <whiteapp
+        name="华为语音助手"
+        package="com.huawei.vassistant" />
+</resources>
